@@ -23,10 +23,10 @@
                                     </a>
                                 </li>
                                 <li class="nav-item mx-2">
-                                    <a class=" nav-link" href="<?php echo RUTA_CONSULTORIA ?>">CONSULTORÍA</a>
+                                    <a class=" nav-link" href="<?php echo RUTA_CONSULTORIA ?>">CONSULTORiA</a>
                                 </li>
                                 <li class="nav-item mx-2">
-                                    <a class="nav-link" href="<?php echo RUTA_FORMACION ?>">FORMACIÓN<br />
+                                    <a class="nav-link" href="<?php echo RUTA_FORMACION ?>">FORMACIoN<br />
                                         ESPECIALIZADA</a>
                                 </li>
                                 <li class="nav-item mx-2">
